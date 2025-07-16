@@ -54,7 +54,7 @@ src/
 
 1. **克隆项目到本地**
    ```bash
-   git clone https://github.com/yourname/consultant.git
+   git clone https://github.com/jjt076/College-Entrance-Examination-Application-Assistant.git
    ```
 
 2. **配置数据库、Redis 及 LangChain4j 相关参数**  
